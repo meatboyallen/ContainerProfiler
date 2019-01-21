@@ -8,7 +8,7 @@ ContainerProfiler includes bash scripts **rudataall.sh** to profile the resource
 
 **GitHub:**  https://github.com/wlloyduw/ContainerProfiler
 
-**License:** Copyright.
+**License:** Copyright UW.
 
 
 
